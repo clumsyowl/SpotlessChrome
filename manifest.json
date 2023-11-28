@@ -1,6 +1,6 @@
 {
   "name": "SpotlessChrome",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Basic extension to delete Chrome history",
   "manifest_version": 1
 }
